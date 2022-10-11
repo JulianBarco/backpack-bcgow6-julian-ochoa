@@ -1,0 +1,29 @@
+[
+    {
+		"ID": 1,
+		"Name": "Game boy",
+		"Color": "yellow",
+		"Precio": 499.9,
+		"Stock": 100,
+		"Codigo": "NGBOY1999",
+		"Publicado": true
+	},
+    {
+		"ID": 2,
+		"Name": "Game boy",
+		"Color": "yellow",
+		"Precio": 499.9,
+		"Stock": 100,
+		"Codigo": "NGBOY1999",
+		"Publicado": true
+	},
+    {
+		"ID": 3,
+		"Name": "Game boy",
+		"Color": "yellow",
+		"Precio": 499.9,
+		"Stock": 100,
+		"Codigo": "NGBOY1999",
+		"Publicado": true
+	},
+]
