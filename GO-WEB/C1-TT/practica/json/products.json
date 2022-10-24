@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Nintendo switch",
+        "colour": "black",
+        "price": 499.9,
+        "stock": 12,
+        "code": 123,
+        "published": true,
+        "creationDate": "12-10-2022"
+    },
+    {
+        "id": 2,
+        "name": "Gameboy",
+        "colour": "Black",
+        "price": 299.9,
+        "stock": 20,
+        "code": 1235,
+        "published": false,
+        "creationDate": "12-10-2022"
+    }
+]
+    
